@@ -1,0 +1,8 @@
+prefix=@prefix@
+Maintainers=lankamp@cwi.nl
+
+Name: rascal-fragment
+Version: 0.1
+Description: Rascal fragment
+Requires: sdf,sglr-invoker
+FragmentHost=rascal-plugin
