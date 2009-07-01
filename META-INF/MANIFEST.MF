@@ -1,7 +1,6 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: rascal-fragment
-Eclipse-LazyStart: true
 Bundle-SymbolicName: rascal_fragment
 Bundle-Version: 0.1
 Bundle-ClassPath: .
