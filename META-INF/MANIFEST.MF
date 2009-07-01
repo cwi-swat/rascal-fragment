@@ -2,7 +2,8 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: rascal-fragment
 Eclipse-LazyStart: true
-Bundle-SymbolicName: rascal_fragment;singleton:=true
+Bundle-SymbolicName: rascal_fragment
 Bundle-Version: 0.1
 Bundle-ClassPath: .
 Fragment-Host: rascal_plugin;bundle-version="0.1.0"
+Eclipse-PlatformFilter: (& (osgi.os=linux) (osgi.arch=x86))
