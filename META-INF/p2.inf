@@ -1,0 +1,3 @@
+instructions.install = \
+  chmod(targetDir:@artifact,targetFile:install/bin/rascal2table,permissions:755);
+  
