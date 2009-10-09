@@ -5,4 +5,3 @@ Bundle-SymbolicName: rascal_fragment
 Bundle-Version: 0.1.1
 Bundle-ClassPath: .
 Fragment-Host: rascal_plugin;bundle-version="0.1.1"
-Eclipse-PlatformFilter: (& (osgi.os=linux) (osgi.arch=x86))
