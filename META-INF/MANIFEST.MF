@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: rascal-fragment
 Bundle-SymbolicName: rascal_fragment_macosx
-Bundle-Version: 0.1.4
+Bundle-Version: 0.1.6
 Bundle-ClassPath: .
 Fragment-Host: rascal_plugin
 Eclipse-PlatformFilter: (& (osgi.os=macosx) (osgi.arch=x86))
